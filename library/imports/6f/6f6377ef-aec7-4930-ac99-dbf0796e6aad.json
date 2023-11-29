@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kfc",
+    "texture": "7711924e-cb34-401c-a8d1-33e9e120a430",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      920,
+      792
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      920,
+      792
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

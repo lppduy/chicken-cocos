@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chicken_anim_16",
+    "texture": "726f7a6e-72d7-4375-9c84-57a861a8a3ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      81,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

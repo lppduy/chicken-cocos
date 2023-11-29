@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "street1-bg",
+    "texture": "9f11c9c8-4333-42e1-9912-f2a7e98f1445",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1930,
+      942
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1930,
+      942
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
